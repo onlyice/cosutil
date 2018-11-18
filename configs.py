@@ -1,0 +1,18 @@
+regions = [
+    "ap-beijing-1",
+    "ap-beijing",
+    "ap-shanghai",
+    "ap-guangzhou",
+    "ap-chengdu",
+    "ap-chongqing",
+    "ap-singapore",
+    "ap-hongkong",
+    "na-toronto",
+    "eu-frankfurt",
+    "ap-mumbai",
+    "ap-seoul",
+    "na-siliconvalley",
+    "na-ashburn",
+    "ap-bangkok",
+    "eu-moscow",
+]
